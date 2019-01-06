@@ -17,8 +17,10 @@ const Shows = () => {
 
   useEffect(() => {
     client.getEntries('upcomingShows').then((response) => console.log(response)).catch(console.error);
-
+    console.log("Are you me?")
   }, []);
+
+ 
 
   return (
     <Layout>
