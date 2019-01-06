@@ -1,0 +1,13 @@
+.tracks-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.tracks-container img {
+  height: 240px;
+  width: 240px;
+}

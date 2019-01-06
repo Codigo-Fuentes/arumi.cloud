@@ -1,0 +1,34 @@
+
+
+html {
+  background-color: black;
+  color: white;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/arumi-glasses.png);
+  /* background-image: url(../images/stand-in.png); */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#___gatsby {
+  height: 100%;
+}
+
+div[role="group"][tabindex] {
+  height: 100%;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+}
