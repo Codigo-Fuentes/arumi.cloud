@@ -1,6 +1,6 @@
 @font-face {
   font-family: TradeGothicLTStd-Bd2;
-  src: url(/fonts/trade-gothic/TradeGothicLTStd-Bd2.otf);
+  src: url(../../fonts/trade-gothic/TradeGothicLTStd-Bd2.otf);
 }
 
 .page-links {
@@ -37,7 +37,6 @@ nav ul li {
   line-height: normal;
   letter-spacing: 0.8px;
   color: #ffffff;
-  text-decoration: none;
 }
 
 .icons {
@@ -54,7 +53,7 @@ nav ul li {
 }
 
 a {
-  
+  text-decoration: none;
 }
 
 /* .icons p {

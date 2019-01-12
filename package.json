@@ -14,9 +14,11 @@
     "gatsby-source-filesystem": "^2.0.12",
     "gatsby-transformer-remark": "^2.1.16",
     "gatsby-transformer-sharp": "^2.1.9",
+    "moment": "^2.23.0",
     "react": "16.7.0-alpha.2",
     "react-dom": "16.7.0-alpha.2",
-    "react-helmet": "^5.2.0"
+    "react-helmet": "^5.2.0",
+    "react-masonry-component": "^6.2.1"
   },
   "keywords": [
     "gatsby"
