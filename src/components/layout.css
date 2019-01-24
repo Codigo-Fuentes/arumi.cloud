@@ -14,10 +14,6 @@ body {
   padding: 0;
   height: 100%;
   width: 100%;
-  background-image: url(../images/arumi-glasses.png);
-  /* background-image: url(../images/stand-in.png); */
-  background-repeat: no-repeat;
-  background-size: cover;
 }
 
 #___gatsby {

@@ -6,8 +6,21 @@
 }
 
 body {
+  margin: 0;
+  padding: 0;
   height: 100%;
+  width: 100%;
 }
+
+#shows-bg-image {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+  z-index: -5;
+}
+
 
 .svg-container {
   margin-top: 197px;

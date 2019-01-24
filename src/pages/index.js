@@ -11,7 +11,7 @@ const IndexPage = () => (
     <Layout>
       <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
       {/* <video src={backgroundVideo}/> */}
-      <video src={backgroundVideo} autoPlay muted loop id="background"/>
+      <video src={backgroundVideo} autoPlay muted loop id="background-video"/>
     </Layout>
 )
 

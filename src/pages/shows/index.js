@@ -4,6 +4,7 @@ import Layout from '../../components/layout'
 import SEO from '../../components/seo'
 import arumiLogo from '../../images//arumi-outlined.svg'
 import bandsInTownLogo from '../../images/bands-in-town.svg'
+import backgroundImage from '../../images/arumi-glasses.png'
 import './index.css'
 import { useState, useEffect } from 'react'
 import moment from 'moment'
@@ -84,6 +85,7 @@ const Shows = () => {
   return (
     <Layout>
       <SEO title="Shows" />
+        <img src={backgroundImage} id="shows-bg-image"/>
         <div className="svg-container">
           <img src={arumiLogo}/>
         </div>
