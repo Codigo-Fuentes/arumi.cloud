@@ -9,3 +9,16 @@
   z-index: -100;
   transform: translate(-50%, -50%);
 }
+
+.logo-container-shows {
+  margin-top: 197px;
+  margin-bottom: 137px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo-container-shows img {
+  width: 425px;
+  height: 163px;
+}
