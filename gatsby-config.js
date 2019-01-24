@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Are U Mi?',
+    title: 'Ar u mi?',
     description: 'official site of DJ Arumi',
     author: `Scorsese's Gatsby`
   },
